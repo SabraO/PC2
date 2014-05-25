@@ -1,0 +1,3 @@
+C:\Users\Sabra\documents\visual studio 2012\Projects\TileMap\TileMapPC\TileMapPCContent\obj\x86\Debug\TileMapPCContent.contentprojResolveAssemblyReference.cache
+E:\TileMap\TileMapPC\TileMapPCContent\obj\x86\Debug\TileMapPCContent.contentprojResolveAssemblyReference.cache
+E:\TileMap_The Game\TileMapPC\TileMapPCContent\obj\x86\Debug\TileMapPCContent.contentprojResolveAssemblyReference.cache

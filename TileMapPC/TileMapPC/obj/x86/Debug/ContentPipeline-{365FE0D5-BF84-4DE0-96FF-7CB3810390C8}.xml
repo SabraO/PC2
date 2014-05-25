@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.jpg</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2014-05-15T21:32:37.3760386+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Blank.jpg</Source>
+      <Name>Blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\Blank.xnb</Output>
+      <Time>2014-05-16T08:09:24.229758+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Stone.jpg</Source>
+      <Name>Stone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\Stone.xnb</Output>
+      <Time>2014-05-16T08:09:24.2437699+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Water.jpg</Source>
+      <Name>Water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\Water.xnb</Output>
+      <Time>2014-05-16T08:09:24.2507724+05:30</Time>
+    </Item>
+    <Item>
+      <Source>player1_Down.png</Source>
+      <Name>player1_Down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\player1_Down.xnb</Output>
+      <Time>2014-05-19T23:17:22.7901535+05:30</Time>
+    </Item>
+    <Item>
+      <Source>player1_Left.png</Source>
+      <Name>player1_Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\player1_Left.xnb</Output>
+      <Time>2014-05-19T23:17:08.1741568+05:30</Time>
+    </Item>
+    <Item>
+      <Source>player1_Right.png</Source>
+      <Name>player1_Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\player1_Right.xnb</Output>
+      <Time>2014-05-19T23:16:45.9025152+05:30</Time>
+    </Item>
+    <Item>
+      <Source>player1_Up.png</Source>
+      <Name>player1_Up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\player1_Up.xnb</Output>
+      <Time>2014-05-19T23:16:31.0326939+05:30</Time>
+    </Item>
+    <Item>
+      <Source>player2_Down.png</Source>
+      <Name>player2_Down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\player2_Down.xnb</Output>
+      <Time>2014-05-19T23:16:15.5017085+05:30</Time>
+    </Item>
+    <Item>
+      <Source>player2_Left.png</Source>
+      <Name>player2_Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\player2_Left.xnb</Output>
+      <Time>2014-05-19T23:16:01.2877152+05:30</Time>
+    </Item>
+    <Item>
+      <Source>player2_Right.png</Source>
+      <Name>player2_Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\player2_Right.xnb</Output>
+      <Time>2014-05-19T23:15:48.3262927+05:30</Time>
+    </Item>
+    <Item>
+      <Source>player2_Up.png</Source>
+      <Name>player2_Up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\player2_Up.xnb</Output>
+      <Time>2014-05-19T23:15:30.4789573+05:30</Time>
+    </Item>
+    <Item>
+      <Source>player3_Down.png</Source>
+      <Name>player3_Down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\player3_Down.xnb</Output>
+      <Time>2014-05-19T23:15:16.887528+05:30</Time>
+    </Item>
+    <Item>
+      <Source>player3_Left.png</Source>
+      <Name>player3_Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\player3_Left.xnb</Output>
+      <Time>2014-05-19T23:15:03.4234385+05:30</Time>
+    </Item>
+    <Item>
+      <Source>player3_Right.png</Source>
+      <Name>player3_Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\player3_Right.xnb</Output>
+      <Time>2014-05-19T23:14:49.4544561+05:30</Time>
+    </Item>
+    <Item>
+      <Source>player3_Up.png</Source>
+      <Name>player3_Up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\player3_Up.xnb</Output>
+      <Time>2014-05-19T23:14:33.6138891+05:30</Time>
+    </Item>
+    <Item>
+      <Source>player4_Down.png</Source>
+      <Name>player4_Down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\player4_Down.xnb</Output>
+      <Time>2014-05-19T23:09:14.0266595+05:30</Time>
+    </Item>
+    <Item>
+      <Source>player4_Left.png</Source>
+      <Name>player4_Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\player4_Left.xnb</Output>
+      <Time>2014-05-19T23:14:15.4337617+05:30</Time>
+    </Item>
+    <Item>
+      <Source>player4_Right.png</Source>
+      <Name>player4_Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\player4_Right.xnb</Output>
+      <Time>2014-05-19T23:13:40.4548366+05:30</Time>
+    </Item>
+    <Item>
+      <Source>player4_Up.png</Source>
+      <Name>player4_Up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\player4_Up.xnb</Output>
+      <Time>2014-05-19T23:10:20.6159286+05:30</Time>
+    </Item>
+    <Item>
+      <Source>player0_Down.png</Source>
+      <Name>player0_Down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\player0_Down.xnb</Output>
+      <Time>2014-05-19T23:18:12.4144643+05:30</Time>
+    </Item>
+    <Item>
+      <Source>player0_Left.png</Source>
+      <Name>player0_Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\player0_Left.xnb</Output>
+      <Time>2014-05-19T23:18:00.8223949+05:30</Time>
+    </Item>
+    <Item>
+      <Source>player0_Right.png</Source>
+      <Name>player0_Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\player0_Right.xnb</Output>
+      <Time>2014-05-19T23:17:49.165075+05:30</Time>
+    </Item>
+    <Item>
+      <Source>player0_Up.png</Source>
+      <Name>player0_Up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\player0_Up.xnb</Output>
+      <Time>2014-05-19T23:17:35.5740443+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Brick_full.jpg</Source>
+      <Name>Brick_full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\Brick_full.xnb</Output>
+      <Time>2014-05-17T15:03:51.9465818+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Brick_25.jpg</Source>
+      <Name>Brick_25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\Brick_25.xnb</Output>
+      <Time>2014-05-17T18:23:14.5880469+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Brick_50.jpg</Source>
+      <Name>Brick_50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\Brick_50.xnb</Output>
+      <Time>2014-05-17T18:23:14.5930525+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Brick_75.jpg</Source>
+      <Name>Brick_75</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\Brick_75.xnb</Output>
+      <Time>2014-05-17T18:23:14.598054+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Coin.png</Source>
+      <Name>Coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\Coin.xnb</Output>
+      <Time>2014-05-19T23:18:43.34947+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Lifepack.png</Source>
+      <Name>Lifepack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\Lifepack.xnb</Output>
+      <Time>2014-05-19T23:18:25.1905213+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Bullet_Up.png</Source>
+      <Name>Bullet_Up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\Bullet_Up.xnb</Output>
+      <Time>2014-05-18T10:08:11.1698898+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Bullet_Down.png</Source>
+      <Name>Bullet_Down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\Bullet_Down.xnb</Output>
+      <Time>2014-05-18T10:11:22.9990234+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Bullet_Left.png</Source>
+      <Name>Bullet_Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\Bullet_Left.xnb</Output>
+      <Time>2014-05-18T10:11:23.004029+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Bullet_Right.png</Source>
+      <Name>Bullet_Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\Bullet_Right.xnb</Output>
+      <Time>2014-05-18T10:11:22.9940218+05:30</Time>
+    </Item>
+    <Item>
+      <Source>TankFont.spritefont</Source>
+      <Name>TankFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\TankFont.xnb</Output>
+      <Time>2014-05-20T09:32:38.6698761+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{365FE0D5-BF84-4DE0-96FF-7CB3810390C8}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\TileMap_The Game\TileMapPC\TileMapPCContent\</RootDirectory>
+      <LoggerRootDirectory>E:\TileMap_The Game\TileMapPC\TileMapPC\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\TileMap_The Game\TileMapPC\TileMapPC\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\TileMap_The Game\TileMapPC\TileMapPC\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-02T04:52:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-02T04:52:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-02T04:52:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-02T04:52:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-02T04:52:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-02T04:52:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-05-10T10:35:28.0072321+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
